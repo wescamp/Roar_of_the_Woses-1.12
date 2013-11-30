@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Roar_of_the_Woses-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-28 02:13+0200\n"
+"POT-Creation-Date: 2013-11-30 19:02+0100\n"
 "PO-Revision-Date: 2013-02-22 14:08+0100\n"
 "Last-Translator: Pyrophorus <pyro@phorus.net>\n"
 "Language-Team: French<wesnoth@ml.free.fr>\n"
@@ -167,32 +167,32 @@ msgstr "Isarras"
 
 #. [modify_side]
 #. [side]: type=Naga Fighter, id=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:107
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:270
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:111
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:274
 msgid "team_name^Naga"
 msgstr "Naga"
 
 #. [modify_side]
 #. [side]
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:118
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:376
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:426
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:122
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:380
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:430
 msgid "team_name^Farmers"
 msgstr "Fermiers"
 
 #. [side]
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:129
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:133
 msgid "team_name^Orc Farmers"
 msgstr "Fermiers Orcs"
 
 #. [objective]: condition=win
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:143
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:147
 msgid "Defeat Isarras"
 msgstr "Vaincre Isarras"
 
 #. [objective]: condition=lose
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:147
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:279
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:151
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:283
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:103
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:123
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:384
@@ -214,12 +214,12 @@ msgid "Death of Kylix"
 msgstr "Mort de Kylix"
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:159
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:163
 msgid "Stay away, Naga. This part of the swamp belongs to us."
 msgstr "Passe ton chemin, Naga. Ce marais nous appartient."
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:163
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:167
 msgid ""
 "Then we shall fight you for it, for our home downstream has dried up and "
 "hordes of humans have moved in. We need a new land."
@@ -229,7 +229,7 @@ msgstr ""
 "nouvelle terre."
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:202
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:206
 msgid ""
 "Peasants, this is your new land. A good supply of water, fertile, just a "
 "little too wet. But that will soon change."
@@ -238,22 +238,22 @@ msgstr ""
 "juste un peu trop marécageuses. Mais cela va changer bientôt."
 
 #. [message]: speaker=OrcCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:231
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:235
 msgid "Not so fast! This land is orcish territory, not human."
 msgstr "Pas si vite! Cet endroit appartient aux orcs, pas aux humains."
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:235
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:239
 msgid "We're the ones clearing it, not you."
 msgstr "C'est nous qui le défrichons, pas vous."
 
 #. [message]: speaker=OrcCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:239
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:243
 msgid "We'll be the ones clearing it — of you!"
 msgstr "C'est nous qui allons le défricher — de votre présence!"
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:248
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:252
 msgid ""
 "They're here too! Come Kylix, let us fight them together or there will be no "
 "space left for either of us."
@@ -262,12 +262,12 @@ msgstr ""
 "il n'y aura de place ici pour aucun d'entre nous."
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:252
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:256
 msgid "This doesn't mean you get to stay here."
 msgstr "Cela ne signifie pas que vous pourrez rester."
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:256
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:260
 msgid ""
 "We can fight about who lives here later. If we don't work together now, "
 "neither of us will have this land."
@@ -276,22 +276,22 @@ msgstr ""
 "n'agissons pas de concert, nous n'aurons cette terre ni l'un ni l'autre."
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:260
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:264
 msgid "Then we have a truce until they are gone."
 msgstr "Dans ce cas, faisons un pacte jusqu'à ce qu'ils soient partis."
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:264
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:268
 msgid "Agreed."
 msgstr "D'accord."
 
 #. [objective]: condition=win
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:275
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:279
 msgid "Defeat both enemy leaders"
 msgstr "Vaincre les deux chefs ennemis"
 
 #. [objective]: condition=lose
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:283
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:287
 #: Roar_of_the_Woses/scenarios/02_Dam_Delay.cfg:107
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:127
 #: Roar_of_the_Woses/scenarios/03_Into_the_Depths.cfg:388
@@ -313,26 +313,26 @@ msgid "Death of Isarras"
 msgstr "Mort d'Isarras"
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:302
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:306
 msgid "My death doesn't matter. The dam will dry this swamp up."
 msgstr ""
 "Ma mort est sans importance. Le barrage assèchera ce marécage de toutes "
 "façons."
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:312
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:316
 msgid "Dam?"
 msgstr "Barrage?"
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:316
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:320
 msgid "An ominous construct. I'll explain when we have dealt the the orcs."
 msgstr ""
 "Une invention abominable. Je vous expliquerai quand nous en aurons fini avec "
 "les orcs."
 
 #. [message]: speaker=second_unit
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:332
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:336
 msgid ""
 "So, saurians, are you going to help us, or just cower while we do the dying?"
 msgstr ""
@@ -340,13 +340,13 @@ msgstr ""
 "l'abri pendant que nous nous battons?"
 
 #. [message]: speaker=second_unit
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:346
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:396
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:350
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:400
 msgid "I'm being attacked!"
 msgstr "Je suis attaqué!"
 
 #. [message]: speaker=OrcCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:356
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:360
 msgid ""
 "Can't handle a little swamp vermin? Why don't you just leave this to us?"
 msgstr ""
@@ -354,7 +354,7 @@ msgstr ""
 "ne pas nous laisser faire?"
 
 #. [message]: speaker=OrcCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:367
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:371
 msgid ""
 "They're attacking the humans too? Alright then, ignore the humans for now, "
 "no sense in wasting effort."
@@ -363,18 +363,18 @@ msgstr ""
 "pour le moment. Inutile de gaspiller nos efforts."
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:371
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:375
 msgid "The orcs stopped attacking. Let's focus on the saurians for now."
 msgstr "Les orcs ne nous attaquent plus. Concentrons-nous sur les sauriens."
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:406
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:410
 msgid "Look at that! The orcs are having problems with the wildlife."
 msgstr ""
 "Regardez! Les orcs ont l'air d'avoir des problèmes avec la faune locale."
 
 #. [message]: speaker=FarmCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:417
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:421
 msgid ""
 "The saurians are attacking everyone. Focus on the saurians, we can deal with "
 "the orcs later."
@@ -383,7 +383,7 @@ msgstr ""
 "pourrons régler le compte des orcs ensuite."
 
 #. [message]: speaker=OrcCommand
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:421
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:425
 msgid ""
 "The humans aren't attacking. Let's clear these swamps before we bother with "
 "them."
@@ -392,12 +392,12 @@ msgstr ""
 "d'eux."
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:451
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:455
 msgid "We've driven them off for now, but what's a dam?"
 msgstr "Nous les avons repoussés pour le moment, mais qu'est-ce qu'un barrage?"
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:455
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:459
 msgid ""
 "A dam is a wall to block water. If the humans are building them, that "
 "explains why our land dried up. Soon this swamp will become farmland and "
@@ -408,7 +408,7 @@ msgstr ""
 "deviendra une terre cultivable et vous ne pourrez plus y vivre."
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:459
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:463
 msgid ""
 "Then I shall destroy it! Isarras, would you like to accompany me upstream? "
 "I'll grant you land in my territory until water is restored to your home "
@@ -419,7 +419,7 @@ msgstr ""
 "acceptez."
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:463
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:467
 msgid "You have yourself a deal. And my troops will join you as well."
 msgstr "Ce marché me convient. Et mes troupes iront avec vous aussi."
 
@@ -2362,8 +2362,8 @@ msgstr "sacrifice"
 
 #. [dummy]: id=sacrifice
 #: Roar_of_the_Woses/units/Haruspex.cfg:11
+#, fuzzy
 msgid ""
-"Sacrifice:\n"
 "This attack heals adjacent allies for one third of the damage dealt to a "
 "living enemy."
 msgstr ""
@@ -2372,12 +2372,12 @@ msgstr ""
 "causé à l'ennemi visé."
 
 #. [unit_type]: id=Saurian Haruspex, race=lizard
-#: Roar_of_the_Woses/units/Haruspex.cfg:18
+#: Roar_of_the_Woses/units/Haruspex.cfg:17
 msgid "Saurian Haruspex"
 msgstr "Haruspice Saurien"
 
 #. [unit_type]: id=Saurian Haruspex, race=lizard
-#: Roar_of_the_Woses/units/Haruspex.cfg:41
+#: Roar_of_the_Woses/units/Haruspex.cfg:40
 msgid ""
 "Most saurian practitioners of magic bear crude staffs as a symbol of their "
 "position. A few instead wield blood encrusted knives. Their magic seems to "

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Roar_of_the_Woses-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-30 19:02+0100\n"
+"POT-Creation-Date: 2014-02-17 02:45+0100\n"
 "PO-Revision-Date: 2012-09-28 02:13+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -350,12 +350,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:455
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:451
 msgid "We've driven them off for now, but what's a dam?"
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:459
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:455
 msgid ""
 "A dam is a wall to block water. If the humans are building them, that "
 "explains why our land dried up. Soon this swamp will become farmland and "
@@ -363,7 +363,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kylix
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:463
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:459
 msgid ""
 "Then I shall destroy it! Isarras, would you like to accompany me upstream? "
 "I'll grant you land in my territory until water is restored to your home "
@@ -371,7 +371,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Isarras
-#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:467
+#: Roar_of_the_Woses/scenarios/01_Oxbow_Swamp.cfg:463
 msgid "You have yourself a deal. And my troops will join you as well."
 msgstr ""
 
